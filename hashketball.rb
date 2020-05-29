@@ -1,6 +1,10 @@
 def game_hash 
   {
-    :home=>{
+    
+  }
+end
+
+:home=>{
       :team_name=>"Brooklyn Nets",
       :colors=>[Black, White],
       :players=>[{
@@ -14,6 +18,3 @@ def game_hash
          
         }]
     }
-  }
-end
-
