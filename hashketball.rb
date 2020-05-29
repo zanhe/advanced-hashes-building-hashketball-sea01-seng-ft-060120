@@ -1,6 +1,6 @@
 def game_hash
   teams = {
-    home => {}
-  
-     awa
+    :home 
+    
+  }
 end
