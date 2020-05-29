@@ -5,16 +5,16 @@ def game_hash
 end
 
 #:home=>{
-      :team_name=>"Brooklyn Nets",
-      :colors=>[Black, White],
-      :players=>[{
+   #   :team_name=>"Brooklyn Nets",
+   #   :colors=>[Black, White],
+    #  :players=>[{
         
-      }]
-    },
-    :away=>{
-      :team_name=>"away team",
-      :colors=>[],
-      :players=>[{
+    #  }]
+    #},
+    #:away=>{
+     # :team_name=>"away team",
+      #:colors=>[],
+      #:players=>[{
          
-        }]
-    }
+       # }]
+    #}
