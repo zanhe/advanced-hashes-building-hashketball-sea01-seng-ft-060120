@@ -1,6 +1,9 @@
 def game_hash
   teams = {
-    :home 
+    :home=>{
+      
+    },
+    
     
   }
 end
