@@ -1,6 +1,7 @@
 def game_hash 
   {
-    :h
+    :home=>{}
+    :away=>{}
   }
 end
 
