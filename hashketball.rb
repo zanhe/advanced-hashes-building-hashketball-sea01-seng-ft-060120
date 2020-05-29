@@ -11,15 +11,7 @@ def game_hash
       :team_name=>"away team",
       :colors=>[],
       :players=>[{
-          player_name: ,
-        number: ,
-        shoe: ,
-        points: ,
-        rebounds: ,
-        assists: ,
-        steals: ,
-        blocks: ,
-        slam_dunks: 
+         
         }]
     }
   }
