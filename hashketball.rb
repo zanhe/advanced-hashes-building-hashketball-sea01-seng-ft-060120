@@ -3,7 +3,8 @@ def game_hash
     :home=>{
       :team_name=>"",
       :colors=>[],
-      :players=>[{:player_name=>{}
+      :players=>[{
+        :player_name=>{"Alan Anderson"}, :player_name=>{}
         :number
         :shoe
         :points
